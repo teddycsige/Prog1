@@ -1,0 +1,10 @@
+sajt 1 42.982
+kaposzta 2 54.32
+kenyer 3 21.32
+virsli 4 66.321
+margarin 5 90.312
+uborka 6 41.31
+tojas 7 32.11
+ketchup 8 21.21
+mustar 9 36.555
+bor 10 6.831
